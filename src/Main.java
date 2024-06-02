@@ -7,6 +7,8 @@ public class Main {
 		System.out.print("Hola mundo");
 		
 		String nombre = "Christian";
+		
+		System.out.print(nombre);
 	}
 
 }
